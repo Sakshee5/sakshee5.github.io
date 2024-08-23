@@ -32,7 +32,6 @@ permalink: /who-am-i
     <img src="assets/img/draw5.jpg">
     <img src="assets/img/trek1.jpg">
     <img src="assets/img/trek2.jpg">
-    <img src="assets/img/trek3.jpg">
     <img src="assets/img/trek4.jpg">
     <img src="assets/img/trek5.jpg">
 </div>
