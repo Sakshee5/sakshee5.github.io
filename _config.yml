@@ -1,0 +1,50 @@
+title: Sakshee Patil
+logo: /assets/img/profile-pic.jpg
+email: saksheepatil05@gmail.com
+description: Graduate Student | Artificial Intelligence at Duke University
+favicon: true
+remote_theme: vaibhavvikas/jekyll-theme-minimalistic
+color-scheme: light
+
+google_analytics: G-0RXV630V8X
+
+url: "https://saksheepatil.ai/"
+
+plugins:
+  - jekyll-seo-tag
+  - jemoji
+  - jekyll-remote-theme
+  - jekyll-sitemap
+
+platforms:
+  - name: Résumé
+    icon: <i class="fa-solid fa-file-lines"></i>
+    link: ./assets/files/resume.pdf
+  - name: GitHub
+    icon: <i class="fa-brands fa-github"></i>
+    link: https://github.com/sakshee5
+  - name: LinkedIn
+    icon: <i class="fa-brands fa-linkedin"></i>
+    link: www.linkedin.com/in/sakshee-patil-5072b51b5
+   - name: Education and Certifications
+    icon: <i class="fa-solid fa-graduation-cap"></i>
+    link: ./education-and-certifications
+  - name: Work Experience
+    icon: <i class="fa-solid fa-briefcase"></i>
+    link: ./work-experience
+  - name: Projects
+    icon: <i class="fa-solid fa-file-code"></i>
+    link: ./projects
+  - name: Publications and Blogs
+    icon: <i class="fa-solid fa-book-open"></i>
+    link: ./publications-and-blogs 
+   - name: Academic Achievements
+    icon: <i class="fa-solid fa-trophy"></i>
+    link: ./academic-achievements
+  - name: Community Work
+    icon: <i class="fa-solid fa-hands-helping"></i>
+    link: ./community-work
+  - name: Who am I?
+    icon: <i class="fa-solid fa-user"></i>
+    link: ./who-am-i
+
