@@ -3,7 +3,6 @@ logo: /assets/img/profile-pic.jpg
 email: saksheepatil05@gmail.com
 description: Graduate Student | Artificial Intelligence at Duke University
 favicon: true
-remote_theme: vaibhavvikas/jekyll-theme-minimalistic
 color-scheme: light
 
 google_analytics: G-0RXV630V8X
@@ -12,7 +11,6 @@ url: "https://saksheepatil.ai/"
 plugins:
   - jekyll-seo-tag
   - jemoji
-  - jekyll-remote-theme
   - jekyll-sitemap
 
 platforms:
@@ -37,9 +35,9 @@ platforms:
   - name: Publications and Blogs
     icon: <i class="fa-solid fa-book-open"></i>
     link: ./publications-and-blogs
-  - name: Academic Achievements
+  - name: Achievements
     icon: <i class="fa-solid fa-trophy"></i>
-    link: ./academic-achievements
+    link: ./achievements
   - name: Community Work
     icon: <i class="fa-solid fa-hands-helping"></i>
     link: ./community-work

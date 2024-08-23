@@ -13,13 +13,15 @@ Whether in the lab or the fast-paced world of industry, I’m driven to create t
 
 <div class="card">
   <h3>Duke University</h3>
-  <p><b>Masters in Artificial Intelligence for Product Innovation</b>, August'24 - Present<br></p>
+  <p><b>Masters in Artificial Intelligence for Product Innovation</b><br>, 
+  August'24 - Present</p>
 </div>
 
 <div class="card">
   <h3>Indian Institute of Technology (IIT) Indore </h3>
   <p><b>Bachelor in Technology, Mechanical Engineering</b><br>
-  Minor in Humanities and Social Sciences, May'18 - May'22<br>
+  Minor in Humanities and Social Sciences<br>
+  May'18 - May'22<br>
   CGPA: 8.65/10</p>
 </div>
 
@@ -33,13 +35,11 @@ Whether in the lab or the fast-paced world of industry, I’m driven to create t
 
 ---
 
----
-
 ## Work Experience:
 
 <div class="card">
-  <h3>Deloitte, USI | <a href="https://drive.google.com/drive/folders/1Cer30GNiFHtipCs6lIr2nM3kPn71Wntr?usp=sharing"><em>Awards</em></a> | <a href="https://saksheepatil05.medium.com/demystifying-langgraph-a-beginner-friendly-dive-into-langgraph-concepts-5ffe890ddac0"><em>Article</em></a></h3>
-  <p><b>Analyst - R&D | GenAI Tech</b> | August 2022 - August 2024</p>
+  <h3>Deloitte, USI | <a href="https://drive.google.com/drive/folders/1Cer30GNiFHtipCs6lIr2nM3kPn71Wntr?usp=sharing"><em>Awards</em><i class="fa-solid fa-link"></i></a> | <a href="https://saksheepatil05.medium.com/demystifying-langgraph-a-beginner-friendly-dive-into-langgraph-concepts-5ffe890ddac0"><em>Article</em><i class="fa-solid fa-link"></i></a></h3>
+  <p><b>Analyst - R&D | GenAI Tech</b> | August 2022 - August 2024</p><br>
   <ul>
     <li>Developed a research agent swarm user interface utilizing OpenAI's Assistants API, enabling autonomous web research, analysis, and generation of deliverables such as newsletters, reports, and PowerPoint presentations, with user refinement capabilities.</li>
     <li>Led a proof of concept for creating comprehensive, locally downloadable PowerPoint presentations based on custom document uploads, tailored to specific topics.</li>
@@ -49,7 +49,8 @@ Whether in the lab or the fast-paced world of industry, I’m driven to create t
 </div>
 
 <div class="card">
-  <h3>National University of Singapore | <em>Guide: Guillaume Sartoretti</em> | <a href="https://github.com/Sakshee5/imvotenet"><i class="fa fa-github"></i></a> | <a href="https://medium.com/codex/imvotenet-paper-review-and-code-analysis-bf103117b32e"><em>Article</em></a></h3>
+  <h3>National University of Singapore<br>
+  <em>Guide: Guillaume Sartoretti</em> | <a href="https://github.com/Sakshee5/imvotenet"><i class="fa-brands fa-github"></i></a> | <a href="https://medium.com/codex/imvotenet-paper-review-and-code-analysis-bf103117b32e"><em>Article</em><i class="fa-solid fa-link"></i></a></h3>
   <p><b>Summer Research Intern</b> | Apr 2021 - Aug 2021</p>
   <ul>
     <li>Worked on autonomous indoor robotic path planning under unknown, partially interactive environments.</li>
@@ -65,8 +66,9 @@ Whether in the lab or the fast-paced world of industry, I’m driven to create t
 ## Projects:
 
 <div class="card">
-  <h3>Unsupervised Segmentation of Peck-damaged Rice Grains | <a href="https://drive.google.com/drive/folders/1Zj8FODrQZ28_UUHMtTjT-vnnxOufIv9t"><em>Journal Paper</em></a> | <a href="https://github.com/Sakshee5/Rice-Grain-Quality-Inspection-/tree/main"><i class="fa fa-github"></i></a></h3>
-  <p><b>Jan 2022 - Jun 2022</b></p>
+  <h3>Unsupervised Segmentation of Peck-damaged Rice Grains<a href="https://github.com/Sakshee5/Rice-Grain-Quality-Inspection-/tree/main"><i class="fa-solid fa-github"></i></a></h3><
+  <p><b>Agriculture | CNNs | Unsupervised Learning | Pytorch <br>
+  Jan 2022 - Jun 2022</b></p>
   <ul>
     <li>Guide: Dr. Pavan Kankar, Dr. Ankur Miglani | <em>B.Tech Thesis</em></li>
     <li>Earned highest grade for conducting research in a field with limited existing literature, utilizing a novel dataset.</li>
@@ -75,8 +77,9 @@ Whether in the lab or the fast-paced world of industry, I’m driven to create t
 </div>
 
 <div class="card">
-  <h3>Design and Vision-based Control of Miniature Rolling Capsule | <a href="https://www.sciencedirect.com/science/article/abs/pii/B9780323907897000014"><em>Book Chapters</em></a> | <a href="https://drive.google.com/drive/folders/1SeUJt5s16n4aFpP1cEXWcC-AxzqBd5T0"><i class="fa fa-link"></i></a> | <a href="https://github.com/Sakshee5/Steel-Defect-Detection"><i class="fa fa-github"></i></a></h3>
-  <p><b>Apr 2021 - Jan 2022</b></p>
+  <h3>Design and Vision-based Control of Miniature Rolling Capsule<a href="https://github.com/Sakshee5/Steel-Defect-Detection"><i class="fa-solid fa-github"></i></a></h3>
+  <p><b>Computer Vision | Robotics | 3D-Printing<br>
+  Apr 2021 - Jan 2022</b></p>
   <ul>
     <li>Guide: Dr. Debanik Roy, Dr. Pavan Kankar, Dr. Ankur Miglani</li>
     <li>Designed & 3D printed a CAD model of a miniature rolling capsule fitted with a CCD camera for pipe inspection.</li>
@@ -90,25 +93,18 @@ Whether in the lab or the fast-paced world of industry, I’m driven to create t
 
 ## Publications and Blogs:
 
-<!-- <h3 style="margin-bottom:2px; color:var(--clr-a-text);"><a href="https://www.sciencedirect.com/science/article/abs/pii/S0147957122000728">Global epidemiology of CTX-M-type β-lactam resistance in human and animal</a></h3>
-<p style="margin:0;"><b>Chanchal Rana, ..., Vaibhav Vikas, <i>et al</i>.</b><br>
-Comparative Immunology, Microbiology, and Infectious Diseases.<br>
-Volume 86, July 2022, 101815.<br>
-Doi: <a href="https://doi.org/10.1016/j.cimid.2022.101815">https://doi.org/10.1016/j.cimid.2022.101815</a></p>
-<ul style="margin-left: -1.4em;">
-  <li>Worked on fetching 2100+ nucleotides sequence from NCBI by its accession number using Python, Selenium and Beautifulsoup.</li>
-  <li>Worked on various utilities such as generating the heat map using Python and d3.js.</li>
-</ul> -->
-
 <h3 style="margin-bottom:2px; color:var(--clr-a-text);">
   <a href="https://drive.google.com/drive/folders/1Zj8FODrQZ28_UUHMtTjT-vnnxOufIv9t?usp=sharing">
     Classification of peck damaged rice grains using Unsupervised Segmentation
   </a>
 </h3>
 <p style="margin:0;">
+  <b>Sakshee Patil, <i>et al</i>.</b><br>
   <b>Journal Paper, Computers and Electronics in Agriculture, Elsevier</b><br>
   Under Review<br>
 </p>
+
+<br>
 
 <h3 style="margin-bottom:2px; color:var(--clr-a-text);">
   <a href="https://drive.google.com/drive/folders/1SeUJt5s16n4aFpP1cEXWcC-AxzqBd5T0?usp=sharing">
@@ -116,19 +112,20 @@ Doi: <a href="https://doi.org/10.1016/j.cimid.2022.101815">https://doi.org/10.10
   </a>
 </h3>
 <p style="margin:0;">
+  <b>Sakshee Patil, <i>et al</i>.</b><br>
   <b>Book Chapter, Assistive Robotics, CRC Press: Taylor & Francis Group, USA</b><br>
   Under Review<br>
 </p>
 
-<h3 style="margin-bottom:2px; color:var(--clr-a-text);">
-  <a href="https://www.sciencedirect.com/science/article/pii/B9780323907897000014">
-    Deep learning-based methods for detecting surface defects in steel plates
-  </a>
-</h3>
-<p style="margin:0;">
-  <b>Book Chapter, Smart Electrical and Mechanical Systems, Elsevier</b><br>
-  June 2022<br>
-</p>
+<br>
+
+<h3 style="margin-bottom:2px; color:var(--clr-a-text);"><a href="https://www.sciencedirect.com/science/article/pii/B9780323907897000014">Deep learning-based methods for detecting surface defects in steel plates</a></h3>
+<p style="margin:0;"><b>Sakshee Patil, <i>et al</i>.</b><br>
+Elsevier, Smart Electrical and Mechanical Systems: An Application of Artificial Intelligence and Machine Learning<br>
+24 June 2022.<br>
+Doi: <a href="https://doi.org/10.1016/B978-0-323-90789-7.00001-4">https://doi.org/10.1016/B978-0-323-90789-7.00001-4</a></p>
+
+<br>
 
 <h3 style="margin-bottom:2px; color:var(--clr-a-text);">
   <a href="https://medium.com/codex/imvotenet-paper-review-and-code-analysis-bf103117b32e">
@@ -139,6 +136,7 @@ Doi: <a href="https://doi.org/10.1016/j.cimid.2022.101815">https://doi.org/10.10
   <b>Medium Article, CodeX publication</b><br>
   July 2021<br>
 </p>
+
 ---
 
 ## Achievements:
@@ -160,7 +158,7 @@ Doi: <a href="https://doi.org/10.1016/j.cimid.2022.101815">https://doi.org/10.10
   <li><strong>Recipient</strong>, Summer Research Fellowship, Indian Academy of Sciences, 2020.</li>
   <li><strong>Invited Intern</strong> (Cancelled due to COVID-19), LCIT Lab, Lyon, France, 2020: Summer internship focusing on 
   image processing of vehicles.</li>
-  <li> Cleared Joint Entrance Examination (JEE) - Advanced 2018 with All India Rank 8907 amongst 12 lakh+ students
+  <li> Cleared Joint Entrance Examination (JEE) - Advanced 2018 with All India Rank 8907 amongst 12 lakh+ students. </li>
         
 </ul>
 
@@ -170,6 +168,7 @@ Doi: <a href="https://doi.org/10.1016/j.cimid.2022.101815">https://doi.org/10.10
   <li>Certified in elementary A1 level German language.</li>
   <li>Served as a member of the Design and Publicity team for Fluxus, Central India's largest cultural fest by IIT Indore.</li>
   <li>Achieved 'A' grade in Maharashtra State Level Elementary and Intermediate Art exam.</li>
+
 </ul>
 
 ---

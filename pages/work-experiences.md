@@ -1,6 +1,15 @@
+---
+layout: default
+permalink: /work-experience
+---
+
+**[Home](/) >> Work Experience**
+
+## Work Experience
+
 <div class="card">
-  <h3>Deloitte, USI | <a href="https://drive.google.com/drive/folders/1Cer30GNiFHtipCs6lIr2nM3kPn71Wntr?usp=sharing"><em>Awards</em></a> | <a href="https://saksheepatil05.medium.com/demystifying-langgraph-a-beginner-friendly-dive-into-langgraph-concepts-5ffe890ddac0"><em>Article</em></a></h3>
-  <p><b>Analyst - R&D | GenAI Tech</b> | August 2022 - August 2024</p>
+  <h3>Deloitte, USI | <a href="https://drive.google.com/drive/folders/1Cer30GNiFHtipCs6lIr2nM3kPn71Wntr?usp=sharing"><em>Awards</em><i class="fa-solid fa-link"></i></a> | <a href="https://saksheepatil05.medium.com/demystifying-langgraph-a-beginner-friendly-dive-into-langgraph-concepts-5ffe890ddac0"><em>Article</em><i class="fa-solid fa-link"></i></a></h3>
+  <p><b>Analyst - R&D | GenAI Tech</b> | August 2022 - August 2024</p><br>
   <ul>
     <li>Developed a research agent swarm user interface utilizing OpenAI's Assistants API, enabling autonomous web research, analysis, and generation of deliverables such as newsletters, reports, and PowerPoint presentations, with user refinement capabilities.</li>
     <li>Led a proof of concept for creating comprehensive, locally downloadable PowerPoint presentations based on custom document uploads, tailored to specific topics.</li>
@@ -10,7 +19,8 @@
 </div>
 
 <div class="card">
-  <h3>National University of Singapore | <em>Guide: Guillaume Sartoretti</em> | <a href="https://github.com/Sakshee5/imvotenet"><i class="fa fa-github"></i></a> | <a href="https://medium.com/codex/imvotenet-paper-review-and-code-analysis-bf103117b32e"><em>Article</em></a></h3>
+  <h3>National University of Singapore<br>
+  <em>Guide: Guillaume Sartoretti</em> | <a href="https://github.com/Sakshee5/imvotenet"><i class="fa-brands fa-github"></i></a> | <a href="https://medium.com/codex/imvotenet-paper-review-and-code-analysis-bf103117b32e"><em>Article</em><i class="fa-solid fa-link"></i></a></h3>
   <p><b>Summer Research Intern</b> | Apr 2021 - Aug 2021</p>
   <ul>
     <li>Worked on autonomous indoor robotic path planning under unknown, partially interactive environments.</li>

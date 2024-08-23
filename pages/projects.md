@@ -1,6 +1,16 @@
+---
+layout: default
+permalink: /projects
+---
+
+**[Home](/) >> Projects**
+
+## Projects:
+
 <div class="card">
-  <h3>Unsupervised Segmentation of Peck-damaged Rice Grains | <a href="https://drive.google.com/drive/folders/1Zj8FODrQZ28_UUHMtTjT-vnnxOufIv9t"><em>Journal Paper</em></a> | <a href="https://github.com/Sakshee5/Rice-Grain-Quality-Inspection-/tree/main"><i class="fa fa-github"></i></a></h3>
-  <p><b>Jan 2022 - Jun 2022</b></p>
+  <h3>Unsupervised Segmentation of Peck-damaged Rice Grains<a href="https://github.com/Sakshee5/Rice-Grain-Quality-Inspection-/tree/main"><i class="fa-solid fa-github"></i></a></h3><
+  <p><b>Agriculture | CNNs | Unsupervised Learning | Pytorch <br>
+  Jan 2022 - Jun 2022</b></p>
   <ul>
     <li>Guide: Dr. Pavan Kankar, Dr. Ankur Miglani | <em>B.Tech Thesis</em></li>
     <li>Earned highest grade for conducting research in a field with limited existing literature, utilizing a novel dataset.</li>
@@ -9,8 +19,9 @@
 </div>
 
 <div class="card">
-  <h3>Design and Vision-based Control of Miniature Rolling Capsule | <a href="https://www.sciencedirect.com/science/article/abs/pii/B9780323907897000014"><em>Book Chapters</em></a> | <a href="https://drive.google.com/drive/folders/1SeUJt5s16n4aFpP1cEXWcC-AxzqBd5T0"><i class="fa fa-link"></i></a> | <a href="https://github.com/Sakshee5/Steel-Defect-Detection"><i class="fa fa-github"></i></a></h3>
-  <p><b>Apr 2021 - Jan 2022</b></p>
+  <h3>Design and Vision-based Control of Miniature Rolling Capsule<a href="https://github.com/Sakshee5/Steel-Defect-Detection"><i class="fa-solid fa-github"></i></a></h3>
+  <p><b>Computer Vision | Robotics | 3D-Printing<br>
+  Apr 2021 - Jan 2022</b></p>
   <ul>
     <li>Guide: Dr. Debanik Roy, Dr. Pavan Kankar, Dr. Ankur Miglani</li>
     <li>Designed & 3D printed a CAD model of a miniature rolling capsule fitted with a CCD camera for pipe inspection.</li>
