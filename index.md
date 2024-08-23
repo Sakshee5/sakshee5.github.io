@@ -13,8 +13,8 @@ Whether in the lab or the fast-paced world of industry, I’m driven to create t
 
 <div class="card">
   <h3>Duke University</h3>
-  <p><b>Masters in Artificial Intelligence for Product Innovation</b><br>, 
-  August'24 - Present</p>
+  <p><b>Masters in Artificial Intelligence for Product Innovation</b><br>
+August'24 - Present</p>
 </div>
 
 <div class="card">
@@ -38,7 +38,7 @@ Whether in the lab or the fast-paced world of industry, I’m driven to create t
 ## Work Experience:
 
 <div class="card">
-  <h3>Deloitte, USI | <a href="https://drive.google.com/drive/folders/1Cer30GNiFHtipCs6lIr2nM3kPn71Wntr?usp=sharing"><em>Awards</em><i class="fa-solid fa-link"></i></a> | <a href="https://saksheepatil05.medium.com/demystifying-langgraph-a-beginner-friendly-dive-into-langgraph-concepts-5ffe890ddac0"><em>Article</em><i class="fa-solid fa-link"></i></a></h3>
+  <h3>Deloitte, USI | <a href="https://drive.google.com/drive/folders/1Cer30GNiFHtipCs6lIr2nM3kPn71Wntr?usp=sharing"><em>Awards</em><i class="fa-solid fa-link"></i></a></h3>
   <p><b>Analyst - R&D | GenAI Tech</b> | August 2022 - August 2024</p><br>
   <ul>
     <li>Developed a research agent swarm user interface utilizing OpenAI's Assistants API, enabling autonomous web research, analysis, and generation of deliverables such as newsletters, reports, and PowerPoint presentations, with user refinement capabilities.</li>
@@ -49,7 +49,7 @@ Whether in the lab or the fast-paced world of industry, I’m driven to create t
 </div>
 
 <div class="card">
-  <h3>National University of Singapore | <a href="https://github.com/Sakshee5/imvotenet"><i class="fa-brands fa-github"></i></a> | <a href="https://medium.com/codex/imvotenet-paper-review-and-code-analysis-bf103117b32e"><em>Article</em><i class="fa-solid fa-link"></i></a></h3><br>
+  <h3>National University of Singapore | <a href="https://github.com/Sakshee5/imvotenet"><i class="fa-brands fa-github"></i></a> | <a href="https://medium.com/codex/imvotenet-paper-review-and-code-analysis-bf103117b32e"><em>Article</em><i class="fa-solid fa-link"></i></a></h3>
   <em>Guide: Guillaume Sartoretti</em>
   <p><b>Summer Research Intern</b> | Apr 2021 - Aug 2021</p><br>
   <ul>
@@ -66,7 +66,7 @@ Whether in the lab or the fast-paced world of industry, I’m driven to create t
 ## Projects:
 
 <div class="card">
-  <h3>Unsupervised Segmentation of Peck-damaged Rice Grains | <a href="https://github.com/Sakshee5/Rice-Grain-Quality-Inspection-/tree/main"><i class="fa-solid fa-github"></i></a></h3>
+  <h3>Unsupervised Segmentation of Peck-damaged Rice Grains | <a href="https://github.com/Sakshee5/Rice-Grain-Quality-Inspection-/tree/main"><i class="fa-brands fa-github"></i></a></h3>
   <p><b>Agriculture | CNNs | Unsupervised Learning | Pytorch <br>
   Jan 2022 - Jun 2022</b></p><br>
   <ul>
@@ -77,7 +77,7 @@ Whether in the lab or the fast-paced world of industry, I’m driven to create t
 </div>
 
 <div class="card">
-  <h3>Design and Vision-based Control of Miniature Rolling Capsule | <a href="https://github.com/Sakshee5/Steel-Defect-Detection"><i class="fa-solid fa-github"></i></a></h3>
+  <h3>Design and Vision-based Control of Miniature Rolling Capsule | <a href="https://github.com/Sakshee5/Steel-Defect-Detection"><i class="fa-brands fa-github"></i></a></h3>
   <p><b>Computer Vision | Robotics | 3D-Printing<br>
   Apr 2021 - Jan 2022</b></p><br>
   <ul>
@@ -94,14 +94,25 @@ Whether in the lab or the fast-paced world of industry, I’m driven to create t
 ## Publications and Blogs:
 
 <h3 style="margin-bottom:2px; color:var(--clr-a-text);">
+  <a href="https://saksheepatil05.medium.com/demystifying-langgraph-a-beginner-friendly-dive-into-langgraph-concepts-5ffe890ddac0">
+    Demystifying LangGraph: A Beginner-Friendly Dive into LangGraph Concepts
+  </a>
+</h3>
+<p style="margin:0;">
+  <b>Medium publication by Sakshee Patil</b><br>
+  May 2024<br>
+</p>
+
+<br>
+
+<h3 style="margin-bottom:2px; color:var(--clr-a-text);">
   <a href="https://drive.google.com/drive/folders/1Zj8FODrQZ28_UUHMtTjT-vnnxOufIv9t?usp=sharing">
     Classification of peck damaged rice grains using Unsupervised Segmentation
   </a>
 </h3>
 <p style="margin:0;">
   <b>Sakshee Patil, <i>et al</i>.</b><br>
-  <b>Journal Paper, Computers and Electronics in Agriculture, Elsevier</b><br>
-  Under Review<br>
+  Journal Paper, Computers and Electronics in Agriculture, Elsevier<br>
 </p>
 
 <br>
@@ -113,15 +124,14 @@ Whether in the lab or the fast-paced world of industry, I’m driven to create t
 </h3>
 <p style="margin:0;">
   <b>Sakshee Patil, <i>et al</i>.</b><br>
-  <b>Book Chapter, Assistive Robotics, CRC Press: Taylor & Francis Group, USA</b><br>
-  Under Review<br>
+  Book Chapter, Assistive Robotics, CRC Press: Taylor & Francis Group, USA<br>
 </p>
 
 <br>
 
 <h3 style="margin-bottom:2px; color:var(--clr-a-text);"><a href="https://www.sciencedirect.com/science/article/pii/B9780323907897000014">Deep learning-based methods for detecting surface defects in steel plates</a></h3>
 <p style="margin:0;"><b>Sakshee Patil, <i>et al</i>.</b><br>
-Elsevier, Smart Electrical and Mechanical Systems: An Application of Artificial Intelligence and Machine Learning<br>
+Book Chapter, Smart Electrical and Mechanical Systems: An Application of Artificial Intelligence and Machine Learning, Elsevier<br>
 24 June 2022.<br>
 Doi: <a href="https://doi.org/10.1016/B978-0-323-90789-7.00001-4">https://doi.org/10.1016/B978-0-323-90789-7.00001-4</a></p>
 
@@ -133,7 +143,7 @@ Doi: <a href="https://doi.org/10.1016/B978-0-323-90789-7.00001-4">https://doi.or
   </a>
 </h3>
 <p style="margin:0;">
-  <b>Medium Article, CodeX publication</b><br>
+  <b>CodeX publication by Sakshee Patil</b><br>
   July 2021<br>
 </p>
 

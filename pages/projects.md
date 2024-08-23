@@ -8,7 +8,7 @@ permalink: /projects
 ## Projects:
 
 <div class="card">
-  <h3>Unsupervised Segmentation of Peck-damaged Rice Grains | <a href="https://github.com/Sakshee5/Rice-Grain-Quality-Inspection-/tree/main"><i class="fa-solid fa-github"></i></a></h3>
+  <h3>Unsupervised Segmentation of Peck-damaged Rice Grains | <a href="https://github.com/Sakshee5/Rice-Grain-Quality-Inspection-/tree/main"><i class="fa-brands fa-github"></i></a></h3>
   <p><b>Agriculture | CNNs | Unsupervised Learning | Pytorch <br>
   Jan 2022 - Jun 2022</b></p><br>
   <ul>
@@ -19,7 +19,7 @@ permalink: /projects
 </div>
 
 <div class="card">
-  <h3>Design and Vision-based Control of Miniature Rolling Capsule | <a href="https://github.com/Sakshee5/Steel-Defect-Detection"><i class="fa-solid fa-github"></i></a></h3>
+  <h3>Design and Vision-based Control of Miniature Rolling Capsule | <a href="https://github.com/Sakshee5/Steel-Defect-Detection"><i class="fa-brands fa-github"></i></a></h3>
   <p><b>Computer Vision | Robotics | 3D-Printing<br>
   Apr 2021 - Jan 2022</b></p><br>
   <ul>
@@ -30,7 +30,7 @@ permalink: /projects
 </div>
 
 <div class="card">
-  <h3>Prognostics and Health Management - Data Challenge | <a href="https://github.com/Sakshee5/PHM--RUL-Prediction-Challenge"><i class="fa fa-github"></i></a></h3>
+  <h3>Prognostics and Health Management - Data Challenge | <a href="https://github.com/Sakshee5/PHM--RUL-Prediction-Challenge"><i class="fa-brands fa-github"></i></a></h3>
   <p><b>Sept 2021 - Oct 2021</b></p><br>
   <ul>
     <li>Worked on predicting Remaining Useful Life in a fleet of aircraft engines with multiple failure modes.</li>
@@ -40,7 +40,7 @@ permalink: /projects
 </div>
 
 <div class="card">
-  <h3>Bosch’s Traffic Sign Recognition | <em>Inter IIT</em> | <a href="https://github.com/Sakshee5/traffic_sign_recognition"><i class="fa fa-github"></i></a></h3>
+  <h3>Bosch’s Traffic Sign Recognition | <em>Inter IIT</em> | <a href="https://github.com/Sakshee5/traffic_sign_recognition"><i class="fa-brands fa-github"></i></a></h3>
   <p><b>Feb 2021 - March 2021</b></p><br>
   <ul>
     <li>Worked on the ML team with UI designers to develop the backend of a customizable CNN architecture.</li>
@@ -60,7 +60,7 @@ permalink: /projects
 </div>
 
 <div class="card">
-  <h3>OpenCV Self Projects | <a href="https://github.com/Sakshee5"><i class="fa fa-github"></i></a></h3>
+  <h3>OpenCV Self Projects | <a href="https://github.com/Sakshee5"><i class="fa-brands fa-github"></i></a></h3>
   <p><b>Apr 2020 - Jul 2020</b></p><br>
   <ul>
     <li>Real-time attendance monitoring with face detection.</li>
@@ -70,7 +70,7 @@ permalink: /projects
 </div>
 
 <div class="card">
-  <h3>Renewable Energy Forecasting for a Smart Grid | <em>Smart India Hackathon</em> | <a href="https://github.com/Sakshee5/Renewable-Energy-Forecasting-for-Integrated-Smart-Grid"><i class="fa fa-github"></i></a></h3>
+  <h3>Renewable Energy Forecasting for a Smart Grid | <em>Smart India Hackathon</em> | <a href="https://github.com/Sakshee5/Renewable-Energy-Forecasting-for-Integrated-Smart-Grid"><i class="fa-brands fa-github"></i></a></h3>
   <p><b>Feb 2020 - Mar 2020</b></p><br>
   <ul>
     <li>Worked in a team of five to develop a scheduling system for a simulated microgrid controller.</li>
