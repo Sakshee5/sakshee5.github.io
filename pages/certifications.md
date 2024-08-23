@@ -1,11 +1,11 @@
 ---
 layout: default
-permalink: /education-and-certifications
+permalink: /certifications
 ---
 
-**[Home](/) >> Education and Certifications**
+**[Home](/) >> Certifications**
 
-## Education and Certifications:
+## Certifications:
 
 <div class="card">
   <h3>Applied Data Science using Python</h3>

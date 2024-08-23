@@ -49,9 +49,9 @@ Whether in the lab or the fast-paced world of industry, I’m driven to create t
 </div>
 
 <div class="card">
-  <h3>National University of Singapore<br>
-  <em>Guide: Guillaume Sartoretti</em> | <a href="https://github.com/Sakshee5/imvotenet"><i class="fa-brands fa-github"></i></a> | <a href="https://medium.com/codex/imvotenet-paper-review-and-code-analysis-bf103117b32e"><em>Article</em><i class="fa-solid fa-link"></i></a></h3>
-  <p><b>Summer Research Intern</b> | Apr 2021 - Aug 2021</p>
+  <h3>National University of Singapore | <a href="https://github.com/Sakshee5/imvotenet"><i class="fa-brands fa-github"></i></a> | <a href="https://medium.com/codex/imvotenet-paper-review-and-code-analysis-bf103117b32e"><em>Article</em><i class="fa-solid fa-link"></i></a></h3><br>
+  <em>Guide: Guillaume Sartoretti</em>
+  <p><b>Summer Research Intern</b> | Apr 2021 - Aug 2021</p><br>
   <ul>
     <li>Worked on autonomous indoor robotic path planning under unknown, partially interactive environments.</li>
     <li>Created a custom OpenAI gym environment with a Pygame renderer capable of being simulated in Pybullet.</li>
@@ -59,16 +59,16 @@ Whether in the lab or the fast-paced world of industry, I’m driven to create t
   </ul>
 </div>
 
-[... See all experiences](./work-experiences)
+[... See all experiences](./work-experience)
 
 ---
 
 ## Projects:
 
 <div class="card">
-  <h3>Unsupervised Segmentation of Peck-damaged Rice Grains<a href="https://github.com/Sakshee5/Rice-Grain-Quality-Inspection-/tree/main"><i class="fa-solid fa-github"></i></a></h3><
+  <h3>Unsupervised Segmentation of Peck-damaged Rice Grains | <a href="https://github.com/Sakshee5/Rice-Grain-Quality-Inspection-/tree/main"><i class="fa-solid fa-github"></i></a></h3>
   <p><b>Agriculture | CNNs | Unsupervised Learning | Pytorch <br>
-  Jan 2022 - Jun 2022</b></p>
+  Jan 2022 - Jun 2022</b></p><br>
   <ul>
     <li>Guide: Dr. Pavan Kankar, Dr. Ankur Miglani | <em>B.Tech Thesis</em></li>
     <li>Earned highest grade for conducting research in a field with limited existing literature, utilizing a novel dataset.</li>
@@ -77,9 +77,9 @@ Whether in the lab or the fast-paced world of industry, I’m driven to create t
 </div>
 
 <div class="card">
-  <h3>Design and Vision-based Control of Miniature Rolling Capsule<a href="https://github.com/Sakshee5/Steel-Defect-Detection"><i class="fa-solid fa-github"></i></a></h3>
+  <h3>Design and Vision-based Control of Miniature Rolling Capsule | <a href="https://github.com/Sakshee5/Steel-Defect-Detection"><i class="fa-solid fa-github"></i></a></h3>
   <p><b>Computer Vision | Robotics | 3D-Printing<br>
-  Apr 2021 - Jan 2022</b></p>
+  Apr 2021 - Jan 2022</b></p><br>
   <ul>
     <li>Guide: Dr. Debanik Roy, Dr. Pavan Kankar, Dr. Ankur Miglani</li>
     <li>Designed & 3D printed a CAD model of a miniature rolling capsule fitted with a CCD camera for pipe inspection.</li>
@@ -141,42 +141,45 @@ Doi: <a href="https://doi.org/10.1016/B978-0-323-90789-7.00001-4">https://doi.or
 
 ## Achievements:
 
-<h4 style="margin-bottom:5px;">Positions of Responsibility:</h4>
-<ul style="margin-left: -1.4em;">
-  <li>Core Member, ML-AI focused Cynaptics Club, IIT Indore (2019 - 2022): Initiated "Project Spotlight", a series where alumni were invited to share their industry experiences and discuss AI-based projects.</li>
-  <li>Member of core mentorship team responsible for managing a three-tier structure of student mentees, student mentors, and faculty advisors (2018 - 2019).</li>
-  <li>Member of Kalakriti, Fine Arts Club, IIT Indore (2018 - 2022): Contributed to the design and execution of campus-wide art installations, conducted art workshops for students.</li>
-  <li>Member of the Debating Society and Dance Club, IIT Indore (2018 - 2020).</li>
-            
-</ul>
+<div class="card">
+    <h4 style="margin-bottom:5px;">Positions of Responsibility:</h4>
+    <ul style="margin-left: -1.4em;">
+      <li>Core Member, ML-AI focused Cynaptics Club, IIT Indore (2019 - 2022): Initiated "Project Spotlight", a series where alumni were invited to share their industry experiences and discuss AI-based projects.</li>
+      <li>Member of core mentorship team responsible for managing a three-tier structure of student mentees, student mentors, and faculty advisors (2018 - 2019).</li>
+      <li>Member of Kalakriti, Fine Arts Club, IIT Indore (2018 - 2022): Contributed to the design and execution of campus-wide art installations, conducted art workshops for students.</li>
+      <li>Member of the Debating Society and Dance Club, IIT Indore (2018 - 2020).</li>          
+    </ul>
+</div>
 
-<h4 style="margin-bottom:5px;">Academic Achievements:</h4>
-<ul style="margin-left: -1.4em;">
-  <li><strong>Silver Medalist</strong>, Inter-IIT Technical Meet, 2021: Led a 10-member team as part of the AI-ML Club.</li>
-  <li><strong>Finalist</strong>, Smart India Hackathon 2020: Participated in a nationwide 36-hour product development competition.</li>
-  <li><strong>Nominee</strong>, Best B.Tech Project Award: Recognized for outstanding project work.</li>
-  <li><strong>Recipient</strong>, Summer Research Fellowship, Indian Academy of Sciences, 2020.</li>
-  <li><strong>Invited Intern</strong> (Cancelled due to COVID-19), LCIT Lab, Lyon, France, 2020: Summer internship focusing on 
-  image processing of vehicles.</li>
-  <li> Cleared Joint Entrance Examination (JEE) - Advanced 2018 with All India Rank 8907 amongst 12 lakh+ students. </li>
-        
-</ul>
+<div class="card">
+    <h4 style="margin-bottom:5px;">Academic Achievements:</h4>
+    <ul style="margin-left: -1.4em;">
+      <li><strong>Silver Medalist</strong>, Inter-IIT Technical Meet, 2021: Led a 10-member team as part of the AI-ML Club.</li>
+      <li><strong>Finalist</strong>, Smart India Hackathon 2020: Participated in a nationwide 36-hour product development competition.</li>
+      <li><strong>Nominee</strong>, Best B.Tech Project Award: Recognized for outstanding project work.</li>
+      <li><strong>Recipient</strong>, Summer Research Fellowship, Indian Academy of Sciences, 2020.</li>
+      <li><strong>Invited Intern</strong> (Cancelled due to COVID-19), LCIT Lab, Lyon, France, 2020: Summer internship focusing on 
+      image processing of vehicles.</li>
+      <li> Cleared Joint Entrance Examination (JEE) - Advanced 2018 with All India Rank 8907 amongst 12 lakh+ students. </li>     
+    </ul>
+</div>
 
-<h4 style="margin-bottom:5px;">Extra-Curricular Achievements:</h4>
-<ul style="margin-left: -1.4em;">
-  <li>Competed in 'E-Yantra' 2019, a pan-India Robotics challenge organized by IIT Bombay.</li>
-  <li>Certified in elementary A1 level German language.</li>
-  <li>Served as a member of the Design and Publicity team for Fluxus, Central India's largest cultural fest by IIT Indore.</li>
-  <li>Achieved 'A' grade in Maharashtra State Level Elementary and Intermediate Art exam.</li>
-
-</ul>
+<div class="card">
+    <h4 style="margin-bottom:5px;">Extra-Curricular Achievements:</h4>
+    <ul style="margin-left: -1.4em;">
+      <li>Competed in 'E-Yantra' 2019, a pan-India Robotics challenge organized by IIT Bombay.</li>
+      <li>Certified in elementary A1 level German language.</li>
+      <li>Served as a member of the Design and Publicity team for Fluxus, Central India's largest cultural fest by IIT Indore.</li>
+      <li>Achieved 'A' grade in Maharashtra State Level Elementary and Intermediate Art exam.</li>
+    </ul>
+</div>
 
 ---
 
 ## Community Work:
 
 <ul style="margin-left: -1.4em;">
-  <li>Volunteered in the Ekostitch Drive, focusing on stitching and block printing initiatives to advocate fabric recycling for a sustainable future in collaboration with the non-profit organization: United Way Mumbai.</li>
+  <li>Volunteered in the Ekostitch Drive, focusing on stitching and block printing initiatives to advocate fabric recycling for a sustainable future in collaboration with the non-profit organization: United Way Mumbai.</li><br>
   <li>Volunteered for "Lend Your Voice" Campaign, recording audio books to aid Samarthanam Trust for the Disabled.</li>
 </ul>
 

@@ -19,9 +19,9 @@ permalink: /work-experience
 </div>
 
 <div class="card">
-  <h3>National University of Singapore<br>
-  <em>Guide: Guillaume Sartoretti</em> | <a href="https://github.com/Sakshee5/imvotenet"><i class="fa-brands fa-github"></i></a> | <a href="https://medium.com/codex/imvotenet-paper-review-and-code-analysis-bf103117b32e"><em>Article</em><i class="fa-solid fa-link"></i></a></h3>
-  <p><b>Summer Research Intern</b> | Apr 2021 - Aug 2021</p>
+  <h3>National University of Singapore | <a href="https://github.com/Sakshee5/imvotenet"><i class="fa-brands fa-github"></i></a> | <a href="https://medium.com/codex/imvotenet-paper-review-and-code-analysis-bf103117b32e"><em>Article</em><i class="fa-solid fa-link"></i></a></h3><br>
+  <em>Guide: Guillaume Sartoretti</em>
+  <p><b>Summer Research Intern</b> | Apr 2021 - Aug 2021</p><br>
   <ul>
     <li>Worked on autonomous indoor robotic path planning under unknown, partially interactive environments.</li>
     <li>Created a custom OpenAI gym environment with a Pygame renderer capable of being simulated in Pybullet.</li>
@@ -31,7 +31,7 @@ permalink: /work-experience
 
 <div class="card">
   <h3>Tynker, India (EduTech)</h3>
-  <p><b>Coding Tutor, Part-time</b> | Oct 2020 - Nov 2021</p>
+  <p><b>Coding Tutor, Part-time</b> | Oct 2020 - Nov 2021</p><br>
   <ul>
     <li>Conducted live personalized virtual mentoring sessions for students of India and overseas.</li>
     <li>Mentoring entailed teaching programming languages like Python, HTML, CSS, and block coding along with the creation of quarterly progress reports for all mentees.</li>

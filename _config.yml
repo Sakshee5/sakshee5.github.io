@@ -25,9 +25,9 @@ platforms:
   - name: LinkedIn
     icon: <i class="fa-brands fa-linkedin"></i>
     link: https://www.linkedin.com/in/sakshee-patil-5072b51b5
-  - name: Education and Certifications
+  - name: Certifications
     icon: <i class="fa-solid fa-graduation-cap"></i>
-    link: ./education-and-certifications
+    link: ./certifications
   - name: Work Experience
     icon: <i class="fa-solid fa-briefcase"></i>
     link: ./work-experience
