@@ -45,6 +45,7 @@ August'24 - Present</p>
     <li>Built a proof of concept (streamlit) for creating comprehensive, customizable and locally downloadable PowerPoint presentations based on document uploads, tailored to specific topics and target audiences.</li>
     <li>Implemented a scalable Generative AI-based Topic Modeling approach for advanced document analysis.</li>
     <li>Research work: Large Language Model (LLM) Agents and frameworks, including AutoGen, CrewAI, and LangGraph, as well as Retrieval-Augmented Generation (RAG), knowledge graphs, and prompting techniques.</li>
+  </ul>
 </div>
 
 <div class="card">
