@@ -11,8 +11,8 @@ permalink: /work-experience
   <h3>Deloitte, USI | <a href="https://drive.google.com/drive/folders/1Cer30GNiFHtipCs6lIr2nM3kPn71Wntr?usp=sharing"><em>Awards</em><i class="fa-solid fa-link"></i></a></h3>
   <p><b>Analyst - R&D | GenAI Tech</b> | August 2022 - August 2024</p><br>
   <ul>
-    <li>Developed a research agent swarm user interface utilizing OpenAI's Assistants API, enabling autonomous web research, analysis, and generation of deliverables such as newsletters, reports, and PowerPoint presentations, with user refinement capabilities.</li>
-    <li>Led a proof of concept for creating comprehensive, locally downloadable PowerPoint presentations based on custom document uploads, tailored to specific topics.</li>
+    <li>Developed a multi-agent LLM system utilizing OpenAI’s Assistants API, enabling autonomous web research, analysis, and generation of deliverables such as newsletters, reports and PowerPoint presentations.</li>
+    <li>Built a proof of concept (streamlit) for creating comprehensive, customizable and locally downloadable PowerPoint presentations based on document uploads, tailored to specific topics and target audiences.</li>
     <li>Implemented a scalable Generative AI-based Topic Modeling approach for advanced document analysis.</li>
     <li>Research work: Large Language Model (LLM) Agents and frameworks, including AutoGen, CrewAI, and LangGraph, as well as Retrieval-Augmented Generation (RAG), knowledge graphs, and prompting techniques.</li>
   </ul>
