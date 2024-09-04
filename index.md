@@ -94,6 +94,16 @@ August'24 - Present</p>
 ## Publications and Blogs:
 
 <h3 style="margin-bottom:2px; color:var(--clr-a-text);">
+  <a href="https://saksheepatil05.medium.com/cracking-the-code-how-adversarial-attacks-manipulate-ai-language-models-239620395e58">
+    Cracking the Code: How Adversarial Attacks Manipulate AI Language Models
+  </a>
+</h3>
+<p style="margin:0;">
+  <b>Medium publication by Sakshee Patil</b><br>
+  Sept 2024<br>
+</p>
+
+<h3 style="margin-bottom:2px; color:var(--clr-a-text);">
   <a href="https://saksheepatil05.medium.com/demystifying-langgraph-a-beginner-friendly-dive-into-langgraph-concepts-5ffe890ddac0">
     Demystifying LangGraph: A Beginner-Friendly Dive into LangGraph Concepts
   </a>
