@@ -14,14 +14,16 @@ Whether in the lab or the fast-paced world of industry, I’m driven to create t
 <div class="card">
   <h3>Duke University</h3>
   <p><b>Masters in Artificial Intelligence for Product Innovation</b><br>
-August'24 - Present</p>
+August' 24 - Present<br>
+
+- Won the <b>First Grand Prize</b> and <b>Best Use of Agents</b> special prize in the annual 36-hour Duke AI Hackathon amongst 500+ participants.</p>
 </div>
 
 <div class="card">
   <h3>Indian Institute of Technology (IIT) Indore </h3>
   <p><b>Bachelor in Technology, Mechanical Engineering</b><br>
   Minor in Humanities and Social Sciences<br>
-  May'18 - May'22<br>
+  May' 18 - May' 22<br>
   CGPA: 8.65/10</p>
 </div>
 
