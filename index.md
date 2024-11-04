@@ -15,7 +15,7 @@ Whether in the lab or the fast-paced world of industry, I’m driven to create t
   <h3>Duke University</h3>
   <p><b>Masters in Artificial Intelligence for Product Innovation</b><br>
 August' 24 - Present<br>
-
+<br>
 - Won the <b>First Grand Prize</b> and <b>Best Use of Agents</b> special prize in the annual 36-hour Duke AI Hackathon amongst 500+ participants.</p>
 </div>
 
